@@ -1,4 +1,4 @@
-x1 = int(input())
+
 x2 = int(input())
 p1 = int(input())
 p2 = int(input())
